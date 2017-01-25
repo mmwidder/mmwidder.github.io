@@ -2079,7 +2079,7 @@
 				padding: 0.35em 0 0 3.5em;
 				position: relative;
 				vertical-align: top;
-				width: 48%;
+				width: 95%;
 			}
 
 				ul.feature-icons li:before {
@@ -2092,7 +2092,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #2d303b;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
